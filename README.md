@@ -5,7 +5,7 @@ https://script.google.com/
 
 On Script Google
 add Triggers
- > formSubmitTrigger
- > Head
- > From Spereadsheet
- > When submit the form
+ formSubmitTrigger
+ Head
+ From Spereadsheet
+ When submit the form
